@@ -21,6 +21,7 @@
     "vercel": "vercel login && vercel --prod"
   },
   "dependencies": {
+    "@intlify/message-compiler": "^11.1.9",
     "@nuxt/icon": "^1.10.3",
     "@nuxthub/core": "^0.8.11",
     "@nuxtjs/i18n": "^9.1.1",
